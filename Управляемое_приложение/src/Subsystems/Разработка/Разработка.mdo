@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="17b23a49-9c55-4a00-8bed-fe8eb79ec264">
+  <name>Разработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Разработка</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Document.pepsico_ШаблонДокумента</content>
+  <content>Catalog.pepsico_ШаблонПростогоСправочника</content>
+  <content>Catalog.pepsico_ШаблонСложногоСправочника</content>
+</mdclass:Subsystem>
