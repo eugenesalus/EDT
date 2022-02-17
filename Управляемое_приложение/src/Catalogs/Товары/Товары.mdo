@@ -355,4 +355,16 @@
     <parameterUseMode>Multiple</parameterUseMode>
     <representation>Auto</representation>
   </commands>
+  <commands uuid="a0232048-3721-4936-bc02-af0149c0d4aa">
+    <name>Остатки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Остатки</value>
+    </synonym>
+    <group>FormCommandBarImportant</group>
+    <commandParameterType>
+      <types>CatalogRef.Товары</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+  </commands>
 </mdclass:Catalog>
